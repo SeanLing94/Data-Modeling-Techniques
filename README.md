@@ -1,16 +1,16 @@
 Data Modeling
 # Unsupervised Learning
-1. K-Mean Clustering
-2. Association Rule
+1.1 K-Mean Clustering
+1.2 Association Rule
 
 # Supervised Learning
-1. Classification
-   - Decision Tree
-   - Neural Networks
-   - Logistic Regression
-   - Ensemble Learning
+2 Classification
+2.1 Decision Tree
+2.2 Neural Networks
+2.3 Logistic Regression
+2.4 Ensemble Learning
    
-2. Estimation
-   - Decision Tree Regression
-   - Neural Networks
-   - Multiple Linear Regression
+3. Estimation
+3.1 Decision Tree Regression
+3.2 Neural Networks
+3.3 Multiple Linear Regression
