@@ -9,7 +9,7 @@ Data Modeling
 2.2 Neural Networks  
 2.3 Logistic Regression  
 2.4 Ensemble Learning  
-   
+
 3. Estimation  
 3.1 Decision Tree Regression  
 3.2 Neural Networks  
